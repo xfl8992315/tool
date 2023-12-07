@@ -1,1 +1,1 @@
-console.log('加载了')
+console.log('加载了',typeName)
